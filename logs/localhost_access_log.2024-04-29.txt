@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [29/Apr/2024:14:28:26 +0530] "GET /C:%5Chospital%20management%20system%5CPixel6%5Csrc HTTP/1.1" 400 795
+0:0:0:0:0:0:0:1 - - [29/Apr/2024:14:28:26 +0530] "GET /favicon.ico HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [29/Apr/2024:14:33:11 +0530] "GET /C:%5Chospital%20management%20system%5CPixel6%5Cwebapps HTTP/1.1" 400 795
+0:0:0:0:0:0:0:1 - - [29/Apr/2024:14:33:11 +0530] "GET /favicon.ico HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [29/Apr/2024:14:53:13 +0530] "GET /C:%5Chospital%20management%20system%5CPixel6%5Cwebapps HTTP/1.1" 400 795
+0:0:0:0:0:0:0:1 - - [29/Apr/2024:14:53:14 +0530] "GET /favicon.ico HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [29/Apr/2024:14:53:53 +0530] "GET /C:%5Chospital%20management%20system%5CPixel6%5Cwebapps HTTP/1.1" 400 795
+0:0:0:0:0:0:0:1 - - [29/Apr/2024:14:53:54 +0530] "GET /favicon.ico HTTP/1.1" 404 682
